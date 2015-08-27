@@ -3,7 +3,7 @@ List of UK postal counties for use in address forms using a drop-down selector.
 Includes HTML, CSV and Contact Form 7 code ready to be cut and pasted into your own projects.
 
 The list of former postal counties was maintained and used by the Roayl Mail for sorting until 1996 when it was 
-replaced by the fist part of the postcode.
+replaced by the first part of the postcode.
 
 The list in full spit by country:
 
